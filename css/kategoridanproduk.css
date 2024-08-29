@@ -1,0 +1,62 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    /*background-color: #F9D701;*/
+}
+.container2{
+  background-color: #253D93;
+  border-radius: 10px;
+}
+.table{
+  background-color: #253D93;
+  border-radius: 15px;
+  color: #ffff;
+
+}
+label{
+  color: #ffff;
+  font-size: 16px;
+}
+h2{
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  background-color: #253D93;
+  padding: 20px;
+  color: #ffff;
+  border-radius: 3px;
+  font-size: 45px;
+}
+.logo{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.btn-simpan{
+  align : right;
+  flex: 1 1 auto;
+  display: inline-block;
+  position: relative;
+  left: 93%;
+  font-weight: bold;
+  font-size: 18px;
+  background-color: #F9D701;
+  color: black;
+}
+.btn-tambah{
+  align : right;
+  flex: 1 1 auto;
+  display: inline-block;
+  background-color: #F9D701;
+  color: black;
+}
+.btn-ubah{
+  align : right;
+  flex: 1 1 auto;
+  display: inline-block;
+  background-color: #F9D701;
+  position: relative;
+  left: 45%;
+  color: black;
+  font-weight: bold;
+  font-size: 18px;
+}

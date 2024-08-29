@@ -1,0 +1,68 @@
+/* untuk Awal */
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #F9D701;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.textcolor{
+  text-align: left;
+  color: #253D93;
+}
+
+.container3{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  padding: 20px 25px;
+  width: 650px;
+  background-color: white;
+  box-shadow: 0 0 10px #253D93;
+}
+
+.center2 {
+  display: block;
+  margin-left: -6%;
+  margin-right: 55%;
+  width: 120%;
+  position: center;
+}
+
+.btn {
+  background-color: #253D93;
+  border: none;
+  color: white;
+  padding: 10px 22px;
+  border-radius: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+a {
+  color: white;
+  font-size: 30px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}

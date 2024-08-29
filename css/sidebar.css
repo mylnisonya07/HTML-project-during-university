@@ -1,0 +1,23 @@
+.nav-link:hover {
+    background-color: #F9D701
+    /*background-color: #253D93*/
+}
+
+:hover {
+  background-color: var(--hover-background-color);
+}
+
+
+/*.nav-link active:hover {
+    background-color: #7c8bbe
+}
+
+.nav-link-text:hover{
+    position: relative;
+    left: 10;
+    color: white;
+}*/
+
+/*.ni:hover{
+    color: white;
+}*/

@@ -1,0 +1,24 @@
+/*.container{
+	margin-top: 8%;
+}*/
+
+/*body{
+	background-image: url('../pembeli/background/yellow6.jpg');
+
+}*/
+
+.form-control {
+	width: 350px;
+}
+
+.inner{
+	overflow: hidden;
+}
+
+.inner img{
+	transition: all 1.5s ease;
+}
+
+.inner:hover img{
+	transform: scale(1.5);
+}
