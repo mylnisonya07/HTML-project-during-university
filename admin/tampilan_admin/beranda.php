@@ -109,7 +109,7 @@ include '../../koneksi.php';
                           <td>
                              <div class="kolom">
                             <p class="deskripsi">Belanja Produk UKM #dirumahaja</p>
-                            <h1>Selamat Datang di C'mon Go Shopping!</h1>
+                            <h1>Selamat Datang di BuyMe</h1>
                             <p>Silahkan belanja produk UKM dengan harga terjangkau cukup dirumah saja ya. </p>
                             <p><a href="tentangkami.php" class="tbl-pink"><b>Informasi Lebih Lanjut</b></a></p>
                             </div>
