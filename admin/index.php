@@ -42,7 +42,7 @@ if(!isset($_SESSION["admin"])){
       <!-- Brand -->
       <div class="sidenav-header  align-items-center">
         <a class="navbar-brand" href="javascript:void(0)">
-          <img src="../image_buyme/logo buyme.png" alt="" width="40" height="100"><strong>CGS</strong><div></div>C'mon Go Shopping
+          <img src="../image_buyme/logo buyme.png" alt="" width="40" height="100"><strong>BuyMe</strong>
         </a>
       </div>
       <div class="navbar-inner">
