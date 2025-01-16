@@ -90,7 +90,7 @@ include '../../koneksi.php';
         <div class=" col ">
           <div class="card">
             <div class="card-header bg-transparent">
-              <h3 class="mb-0">Tentang C’mon Go Shopping</h3>
+              <h3 class="mb-0">Tentang BuyMe</h3>
             </div>
             <div class="card-body">
               <div class="row icon-examples" class="table table-hover">
@@ -102,14 +102,14 @@ include '../../koneksi.php';
                         <tr>
                           <td>
                              <div class="kolom">
-                            <p class="deskripsi" align="justify"><b>C’mon Go Shopping berupa aplikasi sistem informasi jual beli produk UKM berbasis web merupakan aplikasi yang memiliki tujuan untuk menciptakan media yang dapat memperkenalkan produk-produk UKM,dan memberikan layanan informasi bagi admin dan pembeli mengenai produk UKM dan hasil penjualan dari transaksi tersebut. Sistem informasi manajemen ini dibentuk untuk memenuhi tugas akhir dari matakuliah Sistem Informasi Jurusan Informatika, Fakultas Teknologi Informasi, Universitas Islam Indonesia.</b></p>
+                            <p class="deskripsi" align="justify"><b>BuyMe berupa aplikasi sistem informasi jual beli produk UKM berbasis web merupakan aplikasi yang memiliki tujuan untuk menciptakan media yang dapat memperkenalkan produk-produk UKM,dan memberikan layanan informasi bagi admin dan pembeli mengenai produk UKM dan hasil penjualan dari transaksi tersebut. Sistem informasi manajemen ini dibentuk untuk memenuhi tugas akhir dari matakuliah Sistem Informasi Jurusan Informatika, Fakultas Teknologi Informasi, Universitas Islam Indonesia.</b></p>
                             <br>
-                            <h3 align="center"> <i>Tim Pengembang C’mon Go Shopping</i>
+                            <h3 align="center"> <i>Tim Pengembang BuyMe</i>
                               <br></br>
                               <div class="container-fluid">
                                 <table class="table">
                                   <tr align="center">
-                                    <!-- <td>
+                                    <td>
                                       <div class="card" style="width: 10rem;">
                                         <img src="../../image_buyme/indah.png" class="card-img-top">
                                         <div class="card-body">
@@ -117,7 +117,7 @@ include '../../koneksi.php';
                                           <p class="card-text" align="center" style="font-size: 12px; position: relative; bottom: 6px;"><b>Indah Rahma Ilmiana</b></p>
                                         </div>
                                       </div>
-                                    </td> -->
+                                    </td>
                                     <td>
                                       <div class="card" style="width: 10rem;">
                                         <img src="../../image_buyme/mayla.jpg" class="card-img-top">
@@ -129,22 +129,22 @@ include '../../koneksi.php';
                                     </td>
                                     <td>
                                       <div class="card" style="width: 10rem;">
-                                        <img src="../../image_buyme/faridah.jpg" class="card-img-top">
+                                        <img src="../../image_buyme/syuhda.jpg" class="card-img-top">
                                         <div class="card-body">
-                                          <p class="card-text" align="center" style="font-size: 12px; position: relative; top: 5px;"><b>20523144</b></p>
-                                          <p class="card-text" align="center" style="font-size: 12px; position: relative; bottom: 6px;"><b>Faridah Amaliyah</b></p>
+                                          <p class="card-text" align="center" style="font-size: 12px; position: relative; top: 5px;"><b>20523238</b></p>
+                                          <p class="card-text" align="center" style="font-size: 12px; position: relative; bottom: 6px;"><b>Syuhda Fakhrunnisa</b></p>
                                         </div>
                                       </div>
                                     </td>
                                     <td>
                                       <div class="card" style="width: 10rem;">
-                                        <img src="../../image_buyme/riri.jpg" class="card-img-top">
+                                        <img src="../../image_buyme/sonya.jpg" class="card-img-top">
                                         <div class="card-body">
-                                          <p class="card-text" align="center" style="font-size: 12px; position: relative; top: 5px;"><b>20523027</b></p>
-                                          <p class="card-text" align="center" style="font-size: 12px; position: relative; bottom: 6px;"><b>Febrianty Ayu Puspitasari</b></p>
+                                          <p class="card-text" align="center" style="font-size: 12px; position: relative; top: 5px;"><b>20523158</b></p>
+                                          <p class="card-text" align="center" style="font-size: 12px; position: relative; bottom: 6px;"><b>Sonya Ainurohmah</b></p>
                                         </div>
                                       </div>
-                                    <!-- </td>
+                                    </td>
                                     <td>
                                       <div class="card" style="width: 10rem;">
                                         <img src="../../image_buyme/dinda.jpg" class="card-img-top">
@@ -153,7 +153,7 @@ include '../../koneksi.php';
                                           <p class="card-text" align="center" style="font-size: 12px; position: relative; bottom: 6px;"><b>Annisa Dinda Septina</b></p>
                                         </div>
                                       </div>
-                                    </td> -->
+                                    </td>
                                   </tr>
                                 </table>
                               </div>
